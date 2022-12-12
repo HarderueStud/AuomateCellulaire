@@ -2,7 +2,7 @@
 
 Clément -****- L
 
-https://github.com/HarderueStud/AuomateCellulaire
+https://github.com/HarderueStud/AutomateCellulaire
 
 Infos Automates cellulaires :
 - Day and night : https://fr.wikipedia.org/wiki/Day_%26_Night
