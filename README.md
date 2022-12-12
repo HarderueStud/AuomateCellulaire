@@ -2,7 +2,7 @@
 
 Clément -****- L
 
-https://github.com/HarderueStud/GameOfLife
+https://github.com/HarderueStud/AuomateCellulaire
 
 Infos Automates cellulaires :
 - Day and night : https://fr.wikipedia.org/wiki/Day_%26_Night
